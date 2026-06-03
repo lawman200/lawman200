@@ -3,7 +3,7 @@
 
 <!-- PROFILE VIEW AND FOLLOWERS -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=iamrence_&label=Profile_views&color=0ED7FF&style=flat" alt="profile-views-count"/>
+  <img src="https://komarev.com/ghpvc/?username=lawman200&label=Profile_views&color=0ED7FF&style=flat" alt="profile-views-count"/>
 </p>
 
 <!-- QUICK INTRO ABOUT ME -->
@@ -46,20 +46,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 Statistics
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamrence_&theme=blueberry" width="46%" />
-<img align="right" src="https://streak-stats.vercel.app/?user=iamrence_&theme=blueberry&hide_border=true&card_height=250&background=0d1117" width="46%" alt="GitHub Streak" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lawman200&theme=blueberry" width="46%" />
+<img align="right" src="https://streak-stats.vercel.app/?user=lawman200&theme=blueberry&hide_border=true&card_height=250&background=0d1117" width="46%" alt="GitHub Streak" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamrence_&theme=blueberry" width="47%" />
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamrence_&theme=blueberry" width="47%" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lawman200&theme=blueberry" width="47%" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lawman200&theme=blueberry" width="47%" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamrence_&theme=github_dark" style="height: 300px"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lawman200&theme=github_dark" style="height: 300px"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 GitHub Trophies
 <p align="left" style="vertical-align:top; margin:4px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;">
-    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=iamrence_&theme=onestar&column=-1&margin-w=15&margin-h=15&no-frame=true" alt="iamrence_ GitHub trophies" />
+    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=lawman200&theme=onestar&column=-1&margin-w=15&margin-h=15&no-frame=true" alt="lawman200 GitHub trophies" />
   </a>
 </p>
 
