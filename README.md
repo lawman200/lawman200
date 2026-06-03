@@ -9,8 +9,6 @@
 <!-- QUICK INTRO ABOUT ME -->
 <h2 align="center">
   <span style="font-size: 3em; font-weight: bold;">RENCE 🧠🛠️🚀</span>
-</h2>
-<h3 align="center">HI 👋 I'm Rence🚀</h3>
 <h4 align="center" style="color: #ffd700; font-weight: bold; letter-spacing: 2px;">"Building structures with steel,and systems with code----both require logic,patience and precision"</h4>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
