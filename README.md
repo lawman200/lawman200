@@ -58,7 +58,7 @@
 ## 🏆 GitHub Trophies
 <p align="left" style="vertical-align:top; margin:4px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;">
-    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=lawman200&theme=onestar&column=-1&margin-w=15&margin-h=15&no-frame=true" alt="lawman200 GitHub trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=lawman200&theme=onestar&column=-1&margin-w=15&margin-h=15&no-frame=true" alt="lawman200 GitHub trophies" />
   </a>
 </p>
 
